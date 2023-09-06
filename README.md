@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Asnake</h1>
-<h3 align="center">👨‍💻 Software engineer passionate about crafting efficient and elegant code.
-  🌐 Exploring the realms of web and app development. 🔧 Proficient in Python, JavaScript, and more. 🤝 Open to collaborations and contributions. 🚀 Let's turn ideas into digital realities!</h3>
+<h3 align="center">👨‍💻 Software engineer passionate about crafting efficient and elegant code. <br/>
+  🌐 Exploring the realms of web and app development. <br/>
+  🔧 Proficient in Python, JavaScript, and more. <br/>
+  🤝 Open to collaborations and contributions. <br/>
+  🚀 Let's turn ideas into digital realities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike7772&label=Profile%20views&color=0e75b6&style=flat" alt="mike7772" /> </p>
 
