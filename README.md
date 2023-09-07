@@ -3,7 +3,6 @@
   🌐 Exploring the realms of web and app development. <br/>
   🔧 Proficient in Python, JavaScript, and more. <br/>
   🤝 Open to collaborations and contributions. <br/>
-  🚀 Let's turn ideas into digital realities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike7772&label=Profile%20views&color=0e75b6&style=flat" alt="mike7772" /> </p>
 
