@@ -10,7 +10,7 @@
 
 <a href="https://portfolio-website-mike7772.vercel.app" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" 
     alt="Portfolio Website" 
     height="26"
     style="vertical-align:middle;"
