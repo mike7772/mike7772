@@ -8,6 +8,16 @@
 
 - 📫 How to reach me **michaelasnake644@gmail.com**
 
+<a href="https://portfolio-website-mike7772.vercel.app" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" 
+    alt="Portfolio Website" 
+    height="26"
+    style="vertical-align:middle;"
+  />
+  <span style="font-size:16px; margin-left:6px;">Portfolio</span>
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael-asnake-4259991b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-asnake-4259991b3" height="30" width="40" /></a>
