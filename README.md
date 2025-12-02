@@ -15,7 +15,7 @@
     height="26"
     style="vertical-align:middle;"
   />
-  <span style="font-size:16px; margin-left:6px;">Portfolio</span>
+  <span style="font-size:16px; margin-left:6px; padding-bottom: 5px;">Portfolio</span>
 </a>
 
 <h3 align="left">Connect with me:</h3>
