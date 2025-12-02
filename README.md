@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **michaelasnake644@gmail.com**
 
-<a href="https://portfolio-website-mike7772.vercel.app" target="_blank" style="text-decoration:none;">
+<a href="https://portfolio-website-mike7772.vercel.app" target="_blank" style="text-decoration:none; align-items: center;">
   <img 
     src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" 
     alt="Portfolio Website" 
